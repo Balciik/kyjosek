@@ -1,0 +1,33 @@
+.nectar-shape-divider {
+    width: 100%;
+    left: 0;
+    bottom: -1px;
+    height: 100%;
+    position: absolute;
+    height: 35%;
+  }
+
+  .low-path {
+    height: 12%;
+  }
+  
+  .menu-wrap {
+    bottom: -181px;
+  }
+  .nectar-shape-divider-wrap {
+    width: 100%;
+    top: 0px;
+    height: 75%;
+    position: absolute;
+  }
+
+
+.whi {
+    fill: #ffffff;
+}
+.gr {
+    fill: #056938;
+}
+.gre {
+  fill: #3a3a3d;
+}

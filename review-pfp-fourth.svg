@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:9;stroke-miterlimit:10;}
+	
+		.st2{clip-path:url(#SVGID_00000080921060011124080780000008126039997232594875_);fill:#FFFFFF;stroke:#FFFFFF;stroke-width:13;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:48;stroke-miterlimit:10;}
+	.st4{fill:#3A3A3D;}
+</style>
+<polygon class="st0" points="145.7,1019.2 197.4,995.4 249.6,1019.2 242.1,961.2 281.9,920.3 223.8,908.8 197.4,858.3 169,908.3 
+	114.2,919.1 150.5,961.3 "/>
+<polygon class="st0" points="346.2,1019.2 397.9,995.4 450,1019.2 442.5,961.2 482.3,920.3 424.3,908.8 397.9,858.3 369.4,908.3 
+	314.6,919.1 350.9,961.3 "/>
+<polygon class="st0" points="539.6,1019.2 591.4,995.4 643.5,1019.2 636,961.2 675.8,920.3 617.7,908.8 591.4,858.3 562.9,908.3 
+	508.1,919.1 544.4,961.3 "/>
+<polygon class="st0" points="733.1,1019.2 784.9,995.4 837,1019.2 829.5,961.2 869.3,920.3 811.2,908.8 784.9,858.3 756.4,908.3 
+	701.6,919.1 737.9,961.3 "/>
+<polyline class="st0" points="965.8,858.3 937.4,908.3 882.6,919.1 918.9,961.3 914.1,1019.2 965.8,995.4 "/>
+<ellipse class="st1" cx="578.9" cy="410.3" rx="358.9" ry="349.5"/>
+<g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_00000137825475904426225070000016865707801851564956_" cx="578.9" cy="410.3" rx="358.9" ry="349.5"/>
+		</defs>
+		<clipPath id="SVGID_00000021799358822709017460000008123809687903455389_">
+			<use xlink:href="#SVGID_00000137825475904426225070000016865707801851564956_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<ellipse style="clip-path:url(#SVGID_00000021799358822709017460000008123809687903455389_);fill:#FFFFFF;stroke:#FFFFFF;stroke-width:13;stroke-miterlimit:10;" cx="599.3" cy="664.6" rx="261.1" ry="254.3"/>
+	</g>
+	<g>
+		<ellipse id="SVGID_1_" class="st3" cx="578.9" cy="410.3" rx="358.9" ry="349.5"/>
+	</g>
+</g>
+<path class="st4" d="M509.2,613.5c0,38.2,169.7,38.2,169.7,0"/>
+<ellipse class="st4" cx="509.2" cy="530.4" rx="29.9" ry="56.3"/>
+<ellipse class="st4" cx="675.8" cy="530.4" rx="29.9" ry="56.3"/>
+<polygon class="st4" points="601.9,668.9 581.1,668.9 581.1,721.7 601.9,753 622,722.7 622,668.9 "/>
+</svg>
